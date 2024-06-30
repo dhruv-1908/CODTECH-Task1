@@ -7,7 +7,7 @@ ID: CT12DS577
 
 Domain: Frontend Web developer
 
-Duration: May to June 2024
+Duration: June to Aug 2024
 
 Mentor: SRAVANI GOUNI
 
