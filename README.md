@@ -12,6 +12,8 @@ Duration: June to Aug 2024
 Mentor: SRAVANI GOUNI
 
 Overview of the Project
+![Screenshot 2024-06-30 230502](https://github.com/dhruv-1908/CODTECH-Task1/assets/110718326/6cbd6d0f-338b-41c0-aaac-784eee65974c)
+
 
 ProjectName: To do list
 
@@ -49,5 +51,7 @@ Task Management:
 Add, Edit, and Delete Tasks: Users can effortlessly add new tasks, edit existing ones, and delete tasks that are no longer needed. This functionality is implemented using JavaScript to manipulate the DOM in real-time, providing immediate feedback to the user. Mark Complete: Users can mark tasks as completed or incomplete, helping them track their progress. Completed tasks are visually distinguished using CSS styling. Data Persistence:
 
 Local Storage: Tasks are saved in the browser's local storage, ensuring that user data is preserved across sessions. This means that even if the user closes the browser or refreshes the page, their tasks will remain intact and accessible. This feature leverages JavaScript's localStorage API to store and retrieve task data.
+
+
 
 https://www.linkedin.com/posts/dhruv-patel-4aa0b9220_webdevelopment-javascript-html-activity-7213208392989876224-wQUC?utm_source=share&utm_medium=member_desktop
